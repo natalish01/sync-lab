@@ -1,1 +1,3 @@
-# sync-lab
+# sync-lab 
+## About
+This project teaches Git.
